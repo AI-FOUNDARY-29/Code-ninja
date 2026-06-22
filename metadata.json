@@ -1,6 +1,0 @@
-{
-  "name": "AegisX - AI Cybersecurity Digital Twin",
-  "description": "An autonomous AI digital twin and cybersecurity companion that proactively protects you from phishing, deepfakes, scambots, and digital identity theft through real-time predictive assessments.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
